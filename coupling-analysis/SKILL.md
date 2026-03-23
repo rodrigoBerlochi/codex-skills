@@ -10,7 +10,9 @@ description: Analyze coupling between modules using integration strength, distan
 Adapted for Codex from:
 https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(architecture)/coupling-analysis
 
-The upstream repository is MIT-licensed for source code, and its `SKILL.md` content is described in the repository `LICENSE` as CC BY 4.0 unless otherwise specified.
+Original skill content licensed under CC BY 4.0; adapted for Codex.
+
+The upstream repository `LICENSE` states that repository source code is MIT-licensed, while `SKILL.md` content is CC BY 4.0 unless otherwise specified.
 
 ## Goal
 
