@@ -16,7 +16,7 @@ The upstream repository `LICENSE` states that repository source code is MIT-lice
 
 ## Goal
 
-Analyze a codebase using the three-dimensional coupling model from _Balancing Coupling in Software Design_:
+Analyze a codebase using the three-dimensional coupling model from _Balancing Coupling in Software Design_ by Vlad Khononov:
 
 1. Integration strength: what is shared between components
 2. Distance: where the coupling lives
