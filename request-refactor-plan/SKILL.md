@@ -7,7 +7,10 @@ description: Create a detailed refactor plan with tiny, safe commits when the us
 
 ## Source
 
-Adapted for Codex from `mattpocock/skills/tree/main/request-refactor-plan` (MIT License).
+Adapted for Codex from:
+https://github.com/mattpocock/skills/tree/main/request-refactor-plan
+
+Original skill content licensed under MIT; adapted for Codex.
 
 ## Goal
 

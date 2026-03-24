@@ -7,7 +7,10 @@ description: Use test-driven development with a red-green-refactor loop when imp
 
 ## Source
 
-Adapted for Codex from `mattpocock/skills/tree/main/tdd` (MIT License).
+Adapted for Codex from:
+https://github.com/mattpocock/skills/tree/main/tdd
+
+Original skill content licensed under MIT; adapted for Codex.
 
 ## Philosophy
 

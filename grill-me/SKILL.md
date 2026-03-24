@@ -7,7 +7,10 @@ description: Rigorously interview the user about a plan, design, or implementati
 
 ## Source
 
-Adapted for Codex from `mattpocock/skills/tree/main/grill-me` (MIT License).
+Adapted for Codex from:
+https://github.com/mattpocock/skills/tree/main/grill-me
+
+Original skill content licensed under MIT; adapted for Codex.
 
 ## Goal
 

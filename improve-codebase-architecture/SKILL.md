@@ -7,7 +7,10 @@ description: Explore a codebase for architectural improvements that deepen shall
 
 ## Source
 
-Adapted for Codex from `mattpocock/skills/tree/main/improve-codebase-architecture` (MIT License).
+Adapted for Codex from:
+https://github.com/mattpocock/skills/tree/main/improve-codebase-architecture
+
+Original skill content licensed under MIT; adapted for Codex.
 
 ## Goal
 
